@@ -1,2 +1,2 @@
 # Crypto_data_analysis
-# Crypto_data_analysis
+I wanted to complete a project which showcased a lot of what I know or have recently learnt. This products incorporates a lot of the standard data analysis tools, including excel, VLOOKUP, Pivot Tables, Python, Pandas, Github and also Powerpoint The presentation i made is In the main body of the Reposotiry, All of the jupyter notebooks for cleaning data are located in the appendix file.
